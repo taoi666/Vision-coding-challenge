@@ -17,7 +17,7 @@ Prerequisites
 #### Installation
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/your_github_username/car-part-perspective-evaluation.git
+git clone https://github.com/taoi666/Vision-coding-challenge.git
 ```
 2. Install the required Python packages:
 ```
