@@ -42,4 +42,6 @@ The Pearson correlation coefficient between the predicted and actual scores for 
 
 Similarly, for the Backdoor Left perspective evaluation, the Pearson correlation coefficient is 0.931, indicating a strong positive correlation. The p-value is also 0.0, indicating a statistically significant correlation between the predicted and actual scores for this perspective.
 
+The test loss for the model is 0.0122, which represents the average squared difference between the predicted and actual scores on the test dataset. A lower test loss indicates better performance, and in this case, the low test loss further supports the model's effectiveness in predicting both Hood and Backdoor Left perspective scores.
+
 Overall, these results demonstrate that the model's predictions are highly correlated with the actual scores for both Hood and Backdoor Left perspectives, providing confidence in the model's performance.
