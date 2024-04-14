@@ -23,6 +23,14 @@ git clone https://github.com/taoi666/Vision-coding-challenge.git
 ```
 pip install torch torchvision pandas numpy matplotlib pillow scikit-learn
 ```
+## Running the Notebook
+
+To run the Jupyter Notebook associated with this project, please ensure that the following files are located in the same directory:
+
+1. The `imgs` folder containing the image dataset.
+2. The `car_imgs_4000.csv` file containing the metadata and scores associated with the images.
+
+Once you have placed these files in the same directory as the notebook, you can execute the notebook cells sequentially to reproduce the results.
 
 ## Dataset
 The dataset consists of images of vehicles with corresponding scores for the perspective quality of two car parts: the hood and the back door. Each image is labeled with scores ranging from 0.0 to 1.0, where 1.0 represents a perfectly visible and aligned car part, and 0.0 indicates that the part is not visible.
