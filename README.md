@@ -25,7 +25,7 @@ pip install torch torchvision pandas numpy matplotlib pillow scikit-learn
 ```
 ## Running the Notebook
 
-To run the Jupyter Notebook associated with this project, please ensure that the following files are located in the same directory:
+To run the Notebook ```Car Part Visibility Scoring.ipynb``` associated with this project, please ensure that the following files are located in the same directory:
 
 1. The `imgs` folder containing the image dataset.
 2. The `car_imgs_4000.csv` file containing the metadata and scores associated with the images.
