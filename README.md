@@ -5,14 +5,14 @@ This project develops a deep learning model to evaluate the perspective of car p
 
 #### Getting Started
 Prerequisites
-Python 3.8 or above
-PyTorch
-Torchvision
-Pandas
-Numpy
-Matplotlib
-PIL
-scikit-learn
+- Python 3.8 or above
+- PyTorch
+- Torchvision
+- Pandas
+- Numpy
+- Matplotlib
+- PIL
+- scikit-learn
 
 #### Installation
 1. Clone the repository to your local machine:
