@@ -36,7 +36,7 @@ Once you have placed these files in the same directory as the notebook, you can 
 The dataset consists of images of vehicles with corresponding scores for the perspective quality of two car parts: the hood and the back door. Each image is labeled with scores ranging from 0.0 to 1.0, where 1.0 represents a perfectly visible and aligned car part, and 0.0 indicates that the part is not visible.
 
 ## Model
-The model is based on the ResNet18 architecture, pre-trained on ImageNet, and fine-tuned to predict the two perspective scores from car images. It employs a regression approach, outputting continuous values between 0.0 and 1.0 for each car part.
+The model is based on the MobileNetV2 architecture, pre-trained on ImageNet, and fine-tuned to predict the two perspective scores from car images. It employs a regression approach, outputting continuous values between 0.0 and 1.0 for each car part.
 
 ## Evaluation
 
