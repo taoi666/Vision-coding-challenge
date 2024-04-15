@@ -1,7 +1,7 @@
 ## Car Part Perspective Evaluation Model
 
 #### Project Overview
-This project develops a deep learning model to evaluate the perspective of car parts from images. The model predicts scores reflecting the visibility and alignment of specific car parts, such as the hood and the back door, which are crucial for assessing vehicle damage in insurance claims. This README outlines the project setup, data preparation, training procedure, and how to use the model for inference.
+This project develops a deep learning model to evaluate the perspective of car parts from images. The model predicts scores reflecting the visibility and alignment of specific car parts, such as the hood and the back door, which are crucial for assessing vehicle damage in insurance claims.
 
 #### Getting Started
 Prerequisites
